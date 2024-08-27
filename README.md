@@ -121,10 +121,3 @@ This repository contains all the projects, assignments, and notes I've worked on
 3. **ToDo List**: A full-stack application with a Node.js backend and MongoDB database for managing tasks.
 4. **Blog Website**: A blog platform with RESTful routing and dynamic content using EJS templates.
 5. **Decentralized Voting System**: A blockchain-based voting system as part of the Web3 section.
-
-## 🎉 Conclusion 🎉
-
-Thank you for exploring my Web Development Bootcamp repository! This journey has been enriching, and I've gained hands-on experience in both front-end and back-end development. If you have any questions, feedback, or would like to discuss any project, feel free to reach out.
-
-Best regards,  
-Sayan Chakraborty
